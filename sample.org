@@ -4,11 +4,12 @@
   - [[https://virtual-soft.com][VirtualSoft]]
 
 * Lesson 1
-  ** Part 1
-  Introducing the series and setting up the package manager
+** Part 1
+   Introducing the series and setting up the package manager
   - Show melpa
   - set up melpa
-  ** Part 1
+** Part 2
+   New cotents for Part 2
 * Installing some packages
    - install some packages
    - install which-key
